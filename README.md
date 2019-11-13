@@ -11,3 +11,4 @@
 * git branch branchName - Create a local branch named branchName
 * git checkout branchName - Move to branch branchName
 * git branch - Display local branches and which we are on
+* git checkout -b newBranch - Create and check out branch newBranch
